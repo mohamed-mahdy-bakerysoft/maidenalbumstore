@@ -244,6 +244,12 @@
       "password": "$2a$10$aJRSdit.jz0u8OnPcKV9hO13C.mcWDuvDzIMUuQsW53VC6vbClU7e",
       "name": "Kevin Neibarger",
       "id": 1
+    },
+    {
+      "email": "maidenGuest@example.com",
+      "password": "$2a$10$PyX.usE6ipEmiJbtz70wKOGGlc22hcrGuY8ELkkcDOcH3lHlWgOuW",
+      "name": "Maiden Guest",
+      "id": 2
     }
   ]
 }
