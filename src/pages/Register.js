@@ -1,7 +1,7 @@
-import {toast} from "react-toastify";
 import { useNavigate } from "react-router-dom";
 import { register } from "../services";
 import { useTitle } from "../hooks/useTitle"
+import {toast} from "react-toastify";
 
 export const Register = () => {
 
